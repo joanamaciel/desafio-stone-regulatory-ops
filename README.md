@@ -24,7 +24,12 @@ Essa transferência de poder em meio à reforma que se propõe ao mercado financ
 
 
 
-## 1.CONSENTIMENTO NA PRÁTICA 
+## 1. CONSENTIMENTO NA PRÁTICA 
+
+> O consentimento é a declaração livre e evidente pela qual o titular dos dados pessoais aceita o tratamento dos seus dados para uma finalidade específica.
+
+- Como atender à clareza e evidência exigidas da manifestação de vontade do titular, que deve se dar livre de vícios de consentimento, se este último será concedido virtual e digitalmente no contexto do Open Banking?
+
 como se dá
 necessidade de desenvolver efetivos meios técnicos para demonstrar a efetiva manifestação de vontade do titular dos dados - livre de vícios de consentimento
 (atendendendo às especificações da LGPD e traduziando-as em possibilidade tecnológica - manifestação da vontade, impossibilidade de adesão, opções previamente marcadas/preenchidas, maneiras de assegurar a identidade do titular - biometria)
@@ -32,16 +37,16 @@ tecnologia - boas práticas e conhecimento de UI e UX, a fim de a interface seja
 interface dedicada, digital, acesso gratuito ao público com a lista de dados que serão coletados e tratados + possibilidade de personalizaçãode parâmetros e lista de todas as instituições que terão acesso.
 NÃO PODE SER UM NOVO ACEITAR TERMOS DE USO! PRECISA SER CLARO, SUCINTO E DETALHADO AO MESMO TEMPO!
 
-## 2.REVOGAÇÃO DO CONSENTIMENTO
+## 2. REVOGAÇÃO DO CONSENTIMENTO
 necessidade de poder revogar pelo menos pelo mesmo cana que concedeu
 prazo - 1 dia para compartilhamento de serviços de iniciação de pagamentos e imediato para todo o resto
 tecnológica: COMO operacionalizar na prática, com vários players acessando a mesma plataforma ao mesmo tempo
 jurídico: cumprir as exigências do regulador no que diz respeito à manutenção do registro de atividades X necessidade de exclusão imediata dos dados conforme solicitado pelo titular. acompanhar junto ao regulador e participar ativamente da auto regulação do sistema financeiro aberto (vanguarda, Stone já vem fazendo)
 
-## 3.COMPROVAÇÃO DE ESTAR COMPLIANCE COM A LGPD 
+## 3. COMPROVAÇÃO DE ESTAR COMPLIANCE COM A LGPD 
 no sentido de que a proteção dos dados no âmbito tecnológico não é demonstrada visivelmente de forma tão fácil para o público em geral, são sistemas de segurança que o cliente não tem condições de compreender ou visualizar de forma clara. Ainda que a comprovação para o regulador se dê nos moldes por ele propostos, para o cliente (razão) existe a questão da credibilidade de demonstração de seurança. Como conseguir essa confiança?
 
-## 4.GARANTIR DE FATO NÃO SOMENTE A SEGURANÇA DOS DADOS ARMAZENADOS, MAS PRINCIPALMENTE NO COMPARTILHAMENTO DESSES DADOS E INTERNAMENTE NAS INSTITUIÇÕES
+## 4. GARANTIR DE FATO NÃO SOMENTE A SEGURANÇA DOS DADOS ARMAZENADOS, MAS PRINCIPALMENTE NO COMPARTILHAMENTO DESSES DADOS E INTERNAMENTE NAS INSTITUIÇÕES
 necessidade de garantir sistema seguro, ágil e com interface sempre operante 24/7 com, ainda, uma segunda opção em caso de indisponibilidade da plataforma, conforme requerido pela Resolução Conjunta. Equipe de apoio a postos 24h.
 Especialista em infraestrutura de rede que vai cuidar de todas as ferramentas de firewall, configurações de servidor e métodos para tornar a segurança digital mais robusta 
 internamente, talvez a necessidade de autenticação de mais de uma pessoa para cada contato com dados sensíveis
