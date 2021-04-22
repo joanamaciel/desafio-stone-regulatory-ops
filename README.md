@@ -34,7 +34,7 @@ O desafio aqui se encontra justamente na tradução dos requisitos legais para o
 
 Nesse sentido e conforme as disposições da Resolução Conjunta, é necessário que seja oferecida ao público uma interface dedicada, digital, de acesso gratuito, bem como que a declaração de consentimento do titular seja traga a lista de todos os dados que serão coletados/tratados, bem como de todas as instituições que a eles terão acesso, além, é claro, da **possibilidade de personalização dos parâmetros de consentimento** - podendo o titular escolher **quais** dados serão compartilhados e para quais **finalidades**. 
 
-Para tanto, o foco prático interno das Fintechs deve ser em uma equipe multidisciplinar, que consiga conversar com a área jurídica e de tecnologia, a fim de que toda a construção do sistema esteja em devida conformidade com as questões regulatórias, e que entenda e valorize bastante, especialmente, a **Experiência do Usuário**. As boas práticas em UI e UX são essenciais para a construção de uma interface limpa, prática, intuitiva e de fácil compreensão ao usuário.
+Para tanto, o foco prático interno das Fintechs deve ser em uma equipe multidisciplinar, que consiga conversar com a área jurídica e de tecnologia, a fim de que toda a construção do sistema esteja em devida conformidade com as questões regulatórias, e que entenda, valorize e aplique de forma contínua, especialmente, os conceitos de **Design de Experiência do Usuário**. As boas práticas em UI e UX são mais que essenciais para a construção de uma interface limpa, prática, intuitiva e de fácil compreensão ao usuário e devem ser um ponto chave na construção e administração da plataforma.
 
 Em resumo, no que diz respeito ao Consentimento:
 
@@ -44,13 +44,43 @@ Em resumo, no que diz respeito ao Consentimento:
 - [x] Experiência do Usuário
 
 ## 2. REVOGAÇÃO DO CONSENTIMENTO
-necessidade de poder revogar pelo menos pelo mesmo cana que concedeu
-prazo - 1 dia para compartilhamento de serviços de iniciação de pagamentos e imediato para todo o resto
-tecnológica: COMO operacionalizar na prática, com vários players acessando a mesma plataforma ao mesmo tempo
-jurídico: cumprir as exigências do regulador no que diz respeito à manutenção do registro de atividades X necessidade de exclusão imediata dos dados conforme solicitado pelo titular. acompanhar junto ao regulador e participar ativamente da auto regulação do sistema financeiro aberto (vanguarda, Stone já vem fazendo)
 
-## 3. COMPROVAÇÃO DE ESTAR COMPLIANCE COM A LGPD 
-no sentido de que a proteção dos dados no âmbito tecnológico não é demonstrada visivelmente de forma tão fácil para o público em geral, são sistemas de segurança que o cliente não tem condições de compreender ou visualizar de forma clara. Ainda que a comprovação para o regulador se dê nos moldes por ele propostos, para o cliente (razão) existe a questão da credibilidade de demonstração de seurança. Como conseguir essa confiança?
+É imperativo, ainda, assegurar aos titulares a possibilidade da revogação do consentimento _a qualquer tempo_, pelo menos pelo mesmo canal em que foi concedido. E uma vez revogado, todos os controladores de dados envolvidos no compartilhamento precisam ser imediatamente informados para que seja interrompido o tratamento de tais dados.
+
+O principal desafio, aqui, é operacional: Como, tendo diversos players acessando a plataforma ao mesmo tempo, assegurar o cumprimento imediato da revogação de consentimento, com suas devidas consequências e cumprindo os prazo extremamente exíguos exigidos pelas normativas:
+
+PRAZO         | TIPO DE COMPARTILHAMENTO
+------------- | ------------------
+1 dia         | Serviços de Iniciação de Pagamentos
+Imediatamente | Todo o resto
+
+A solução, aqui, será de ordem estritamente tecnológica: É necessário investir em um sistema bem estruturado, planejado, forte e, especialmente, rápido.
+
+Além disso, há ainda desafios de ordem jurídica. Como cumprir, ao mesmo tempo, as exigências do regulador no que diz respeito à manutenção de registro de atividades e movimentações financeiras por prazo legal estabelecido e a necessidade de interrupção **imediata**, ou em até **1 dia**, do compartilhamento e todo o tratamento de dados conforme solicitado por seu titular?
+
+É preciso contato com a prática, nesse caso, bem como acompanhar, junto aos órgãos regulatórios, as orientações, exigências e a própria experiência do mercado financeiro como um todo. A chave é a participação ativa das Fintechs na autorregulação do Sistema Financeiro Aberto.
+
+## 3. COMPROVAR ESTAR EM COMPLIANCE COM A LGPD 
+
+> A proteção de dados, no âmbito tecnológico, não é demonstrada prática e visivelmente de forma tão fácil para o público em geral.
+
+Partimos desse pressuposto, afinal, tratam-se aqui de sistemas de segurança que o usuário, de modo geral, não necessariamente tem condições de compreender ou visualizar de forma clara, devido à sua complexidade. Pode-se dizer o mesmo, ainda que em menor grau, sobre a letra da lei e demais normativas/resoluções que guiam o Open Banking.
+
+A fim de captar o consentimento para o compartilhamento e tratamento de dados do potencial usuário do Open Banking, é preciso que antes se consiga sua confiança. Num contexto de revolução do Sistema Financeiro, é necessário convencer o usuário de que
+
+1. Seus dados estão armazenados de forma segura
+2. O compartilhamento desses dados é seguro
+3. As operações financeiras dentro do Open Banking são seguras
+4. Ele tem, de fato, pleno controle sobre essas questões
+
+Em resumo, é preciso que o usuário esteja convencido de que as instituições financeiras estão cumprindo a lei no que diz respeito à proteção de dados. 
+
+Isso pode ser feito por meio dos chamados [_Legal Design_ e _Visual Law_](https://besouza86.jusbrasil.com.br/artigos/804292299/visual-law-o-que-voce-precisa-saber), que são abordagens de comunicação interdisciplinares entre Direito e Tecnologia, que buscam utilizar elementos gráficos para melhor compreensão de teses jurídicas, alcançando o público além do "juridiquês", reduzindo a disparidade informacional e tentando simplificar ao máximo a linguagem jurídica.
+
+Essas abordagens podem ser aplicadas tanto à complexidade tecnológica da proteção de dados, quanto aos conceitos jurídicos envolvidos. Simplificando e tratando de forma gráfica as informações mais caras ao usuário, torna-se mais fácil conseguir, de fato, sua confiança.
+
+Aqui, novamente, se demonstra a importância do Design de Experiência do Usuário e da aplicação dos conceitos de UI e UX não somente quanto à interface da plataforma, mas também em relação às informações que são disponibilizadas aos usuários.
+
 
 ## 4. GARANTIR DE FATO NÃO SOMENTE A SEGURANÇA DOS DADOS ARMAZENADOS, MAS PRINCIPALMENTE NO COMPARTILHAMENTO DESSES DADOS E INTERNAMENTE NAS INSTITUIÇÕES
 necessidade de garantir sistema seguro, ágil e com interface sempre operante 24/7 com, ainda, uma segunda opção em caso de indisponibilidade da plataforma, conforme requerido pela Resolução Conjunta. Equipe de apoio a postos 24h.
