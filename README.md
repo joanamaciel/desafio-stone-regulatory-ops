@@ -30,12 +30,18 @@ Essa transferência de poder em meio à reforma que se propõe ao mercado financ
 
 - Como atender à clareza e evidência exigidas da manifestação de vontade do titular, que deve se dar livre de vícios de consentimento, se este último será concedido virtual e digitalmente no contexto do Open Banking?
 
-como se dá
-necessidade de desenvolver efetivos meios técnicos para demonstrar a efetiva manifestação de vontade do titular dos dados - livre de vícios de consentimento
-(atendendendo às especificações da LGPD e traduziando-as em possibilidade tecnológica - manifestação da vontade, impossibilidade de adesão, opções previamente marcadas/preenchidas, maneiras de assegurar a identidade do titular - biometria)
-tecnologia - boas práticas e conhecimento de UI e UX, a fim de a interface seja de fato limpa, prática, intuitiva e de fácil compreensão para o titular
-interface dedicada, digital, acesso gratuito ao público com a lista de dados que serão coletados e tratados + possibilidade de personalizaçãode parâmetros e lista de todas as instituições que terão acesso.
-NÃO PODE SER UM NOVO ACEITAR TERMOS DE USO! PRECISA SER CLARO, SUCINTO E DETALHADO AO MESMO TEMPO!
+O desafio aqui se encontra justamente na tradução dos requisitos legais para o funcionamento prático da interface pela qual o titular dos dados consentirá o compartilhamento e tratamento de seus dados(e revogará essa concessão, sem assim quiser). Há a necessidade de desenvolver **efetivos** meios técnicos para demonstrar a **efetiva** manifestação de vontade do titular, **livre de vícios de consentimento**: não pode se tratar de mera adesão, não podem existir opções previamente marcadas ou preenchidas, além de haver a necessidade de assegurar a real identidade do titular - por meio da biometria, por exemplo. 
+
+Nesse sentido e conforme as disposições da Resolução Conjunta, é necessário que seja oferecida ao público uma interface dedicada, digital, de acesso gratuito, bem como que a declaração de consentimento do titular seja traga a lista de todos os dados que serão coletados/tratados, bem como de todas as instituições que a eles terão acesso, além, é claro, da **possibilidade de personalização dos parâmetros de consentimento** - podendo o titular escolher **quais** dados serão compartilhados e para quais **finalidades**. 
+
+Para tanto, o foco prático interno das Fintechs deve ser em uma equipe multidisciplinar, que consiga conversar com a área jurídica e de tecnologia, a fim de que toda a construção do sistema esteja em devida conformidade com as questões regulatórias, e que entenda e valorize bastante, especialmente, a **Experiência do Usuário**. As boas práticas em UI e UX são essenciais para a construção de uma interface limpa, prática, intuitiva e de fácil compreensão ao usuário.
+
+Em resumo, no que diz respeito ao Consentimento:
+
+- [x] Manifestação de vontade livre de vícios de consentimento
+- [x] Personalização dos parâmteros de consentimento
+- [x] Equipe multidisciplinar - integração jurídico-tecnológica
+- [x] Experiência do Usuário
 
 ## 2. REVOGAÇÃO DO CONSENTIMENTO
 necessidade de poder revogar pelo menos pelo mesmo cana que concedeu
