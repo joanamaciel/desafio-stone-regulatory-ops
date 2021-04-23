@@ -82,10 +82,14 @@ Essas abordagens podem ser aplicadas tanto à complexidade tecnológica da prote
 Aqui, novamente, se demonstra a importância do Design de Experiência do Usuário e da aplicação dos conceitos de UI e UX não somente quanto à interface da plataforma, mas também em relação às informações que são disponibilizadas aos usuários.
 
 
-## 4. GARANTIR DE FATO NÃO SOMENTE A SEGURANÇA DOS DADOS ARMAZENADOS, MAS PRINCIPALMENTE NO COMPARTILHAMENTO DESSES DADOS E INTERNAMENTE NAS INSTITUIÇÕES
-necessidade de garantir sistema seguro, ágil e com interface sempre operante 24/7 com, ainda, uma segunda opção em caso de indisponibilidade da plataforma, conforme requerido pela Resolução Conjunta. Equipe de apoio a postos 24h.
-Especialista em infraestrutura de rede que vai cuidar de todas as ferramentas de firewall, configurações de servidor e métodos para tornar a segurança digital mais robusta 
-internamente, talvez a necessidade de autenticação de mais de uma pessoa para cada contato com dados sensíveis
+## 4. GARANTIR DE FATO NÃO SOMENTE A SEGURANÇA DOS DADOS ARMAZENADOS, MAS PRINCIPALMENTE NO COMPARTILHAMENTO DESSES DADOS
+
+> Mais que demonstrar a efetiva segurança dos dados dos usuários, é preciso garanti-la.
+
+O mais óbvio desafio, afinal é assegurar a efetividade da segurança de dados. Na prática, isso significa construir e manter um sistema verdadeiramente robusto, ágil e com interface sempre operante, 24 horas por dia, 7 dias por semana com, ainda, um sistema backup como segunda opção em caso de indisponibilidade da plataforma, conforme requerido pela Resolução Conjunta.
+
+Essa tarefa deve ficar a cargo de especialistas em infraestrutura de rede que vão cuidar de todas as ferramentas de _firewall_, configurações de servidor e métodos para tornar a segurança digital mais robusta.
+
 
 
 
