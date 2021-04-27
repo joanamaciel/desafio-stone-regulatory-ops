@@ -91,6 +91,23 @@ O mais óbvio desafio, afinal é assegurar a efetividade da segurança de dados.
 Essa tarefa deve ficar a cargo de especialistas em infraestrutura de rede que vão cuidar de todas as ferramentas de _firewall_, configurações de servidor e métodos para tornar a segurança digital mais robusta.
 
 
+# O QUE ESPERAR DO MERCADO FINANCEIRO NO CONTEXTO DO OPEN BANKING?
+
+Há diversos objetivos e fundamentos em comum entre a LGPD e a Resolução Conjunta que institui o Open Banking no Brasil, mas há três deles que aqui merecem destaque:
+
+DEVOLUÇÃO AO TITULAR DO PODER SOBRE SEUS DADOS    |    ESTÍMULO DA CONCORRÊNCIA NO MERCADO FINANCEIRO    |    ESTÍMULO À INOVAÇÃO
+
+É fácil entender como essa dinâmica funciona, já que estamos falando quase que de causa e consequência diretas. O **poder sobre os dados devolvido ao titular**, dá a ele a possibilidade de estender o alcance de sua reputação dentro do mercado financeiro e, assim, buscar produtos e serviços mais **competitivos**. E então, a fim de ter um melhor desempenho na venda de produtos e oferecimento de serviços, resta às instituições financeiras buscar na **inovação** a ferramenta necessária para se destacar nessa nova realidade.
+
+Assim, o que podemos esperar do mercado é, sem dúvida, seu engrandecimento em vantagens para o consumidor, além do óbvio avanço tecnológico impulsionado pela citada concorrência e uma verdadeira fonte de inovação no que diz respeito às operações financeiras e à relação das pessoas com o dinheiro no geral.
+
+## INOVAÇÃO
+ > Inovação é, na realidade, o que buscam as legislações e "reformas" dos sistemas financeiros, não só no Brasil. Aqui, a LGPD não somente abre espaço para a inovação como a busca ativamente, força seu acontecimento. E com a instituição do Open Banking isso é ainda mais claro.
+ 
+ 
+Na prática, o que se espera das FinTechs - já disruptivas de berço - é a reformulação e desburocratização do sistema financeiro, ao mesmo tempo com uma maior preocupação com a segurança de dados.
+
+
 
 
 
