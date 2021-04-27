@@ -95,7 +95,9 @@ Essa tarefa deve ficar a cargo de especialistas em infraestrutura de rede que v�
 
 Há diversos objetivos e fundamentos em comum entre a LGPD e a Resolução Conjunta que institui o Open Banking no Brasil, mas há três deles que aqui merecem destaque:
 
-DEVOLUÇÃO AO TITULAR DO PODER SOBRE SEUS DADOS    |    ESTÍMULO DA CONCORRÊNCIA NO MERCADO FINANCEIRO    |    ESTÍMULO À INOVAÇÃO
+- DEVOLUÇÃO AO TITULAR DO PODER SOBRE SEUS DADOS
+- ESTÍMULO DA CONCORRÊNCIA NO MERCADO FINANCEIRO
+- ESTÍMULO À INOVAÇÃO
 
 É fácil entender como essa dinâmica funciona, já que estamos falando quase que de causa e consequência diretas. O **poder sobre os dados devolvido ao titular**, dá a ele a possibilidade de estender o alcance de sua reputação dentro do mercado financeiro e, assim, buscar produtos e serviços mais **competitivos**. E então, a fim de ter um melhor desempenho na venda de produtos e oferecimento de serviços, resta às instituições financeiras buscar na **inovação** a ferramenta necessária para se destacar nessa nova realidade.
 
@@ -105,7 +107,17 @@ Assim, o que podemos esperar do mercado é, sem dúvida, seu engrandecimento em 
  > Inovação é, na realidade, o que buscam as legislações e "reformas" dos sistemas financeiros, não só no Brasil. Aqui, a LGPD não somente abre espaço para a inovação como a busca ativamente, força seu acontecimento. E com a instituição do Open Banking isso é ainda mais claro.
  
  
-Na prática, o que se espera das FinTechs - já disruptivas de berço - é a reformulação e desburocratização do sistema financeiro, ao mesmo tempo com uma maior preocupação com a segurança de dados.
+Na prática, o que se espera das FinTechs - já disruptivas de berço - é a reformulação e desburocratização do sistema financeiro, ao mesmo tempo com uma maior preocupação com a segurança de dados. 
+Sai na frente quem já se preocupa com essas questões desde antes das mudanças normativas, quem procura integrar sistemas e facilitar ações digitais para melhor experiência de seus clientes, quem participa ativamente, junto ao regulador, das discussões e elaboração dessas novas normas e diretrizes e, também, quem atrela a inovação à **acessibilidade**.
+
+A criação de um sistema seguro e completamente integrado ao Open Banking, que se utilize de ferramentas não somente de movimentação financeira mas também de planejamento e controle de gastos, que seja plenamente transparente, fácil de utilizar e, sobretudo, **acessível**, é a chave para atender, num primeiro momento, à sede de inovação do mercado financeiro. É preciso continuar inovando, porém: sempre em consonância com a experiência do cliente, a autorregulação do mercado financeiro e a evolução tecnológica.
+
+Assim, uma equipe especilizada em RegTech dentro das instituições financeiras terá como pontos importantes:
+
+- Experiência do cliente (em compliance com as questões regulatórias);
+- Inovação - baseada na satisfação do usuário e na possibilidade de facilitar ainda mais suas operações;
+- Integração - _app_ e plataforma acessível pelo navegador que concentrem, de maneira clara e transparente, **todas** as ferramentas de movimentação financeira do cliente (internas e de compartilhamento no contexto de Open Banking), além de comodidades como planejamento e controle de gastos e possibilidade de exportar relatórios e planilhas com esse fim, além de facilitação de acesso aos comprovantes de transações e similares;
+- Acessibilidade. É preciso que a plataforma, as aplicações e os dados, como um todo, sejam _encontráveis, entendíveis e utilizáveis_ por pessoas com deficiência. Aqui entra a necessidade, inclusive, de manter _diversidade_ entre as equipes, a fim de que essas questões sejam tratadas junto a quem as realmente entende como usuário.
 
 
 
